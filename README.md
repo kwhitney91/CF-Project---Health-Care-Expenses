@@ -24,4 +24,4 @@ Jupyter Lab was used to write teh python code for this project, and vilusalizati
 The code is listed in the folders above
 
 Final Anaysis
-[Tableau Visualizations]([http://example.com](https://public.tableau.com/app/profile/ken.whitney/viz/Acheivment6FinalProject/Story1?publish=yes)
+[Tableau Visualizations]([https://public.tableau.com/app/profile/ken.whitney/viz/Acheivment6FinalProject/Story1?publish=yes])
